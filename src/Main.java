@@ -14,5 +14,6 @@ public class Main {
         }
         list.add(fil.nextLine());
 System.out.println(list.get(0));
+
     }
 }
